@@ -1,5 +1,5 @@
--- Nama : Sylvana Baiq Murtijanto
--- NIM : 23241075
+-- Nama : Ni Putu Ardila Susanti
+-- NIM : 23241054
 -- Kelas : B
 
 -- membuat database
